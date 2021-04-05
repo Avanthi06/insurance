@@ -20,7 +20,7 @@ public class Insur {
 		if (ms=="M")
 
 		System.out.println ("The driver is insured");
-		else
+		else5
 		{
 		if (sex=="M")
 
